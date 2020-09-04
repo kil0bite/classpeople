@@ -1,6 +1,6 @@
 # Who be in my classes
 
-### (A) Forces
+###  A : Forces
 
     Bradley Barrett
     Katie Braden
@@ -14,7 +14,7 @@
     Dimitris Stefanidis
     Allison Zhu
 
-### (B) Music
+###  B : Music
 
     Hugh Devine
     Cody Gao
@@ -26,7 +26,7 @@
     Hugo Yu
     Daniel Zhu
 
-### (C) Latin 2
+###  C : Latin 2
 
     Cal Berwick
     Robert Blenk
@@ -38,7 +38,7 @@
     Amanda Park
     Daniel Zhu
 
-### (D) Calc BC
+###  D : Calc BC
 
     Kelsie Choi
     Rory Connor
@@ -51,7 +51,7 @@
     Hugo Yu
     Daniel Zhu
 
-### (E) ICAPS
+###  E : ICAPS
 
     Camila Aguirre
     Jackie Courtney
@@ -67,7 +67,7 @@
     Noah Trupin
     Redding Worth
 
-### (F) English
+###  F : English
 
     Anushka Chintamaneni
     Satvik Dasariraju
