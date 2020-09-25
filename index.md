@@ -1,5 +1,3 @@
-# Who be in my classes
-
 ###  A : Forces
 
     Bradley Barrett
